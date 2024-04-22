@@ -1398,20 +1398,3 @@
     }
   ]
 }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Hh": "Kk"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.01400944473174,
-          38.937575443425885
-        ],
-        "type": "Point"
-      },
-      "id": 30
-    }
-  ]
-}

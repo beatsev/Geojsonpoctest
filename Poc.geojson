@@ -458,7 +458,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Hh": "Kk"
+        "Hh": "Kk",
+        "Art": "Löwenzahn "
       },
       "geometry": {
         "coordinates": [
